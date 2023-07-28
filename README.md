@@ -1,2 +1,2 @@
 # dfa-cli
-Deterministic Finite Acceptor CLI
+Deterministic Finite Acceptor CLI Simulator
