@@ -11,7 +11,9 @@ Deterministic Finite Acceptor CLI Simulator
 4. cmake ..
 5. make
 
+## Demo:
 
+![Demo](assets/demo.gif)
 
 
   
