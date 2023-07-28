@@ -25,7 +25,7 @@ UserMenu::UserMenu()
                 cout << "States cleared" << endl;
         }
 
-        cout << "\n1) Add State\n2) Finish adding states and test word\n0) Exit\n" << endl;
+        cout << "\n1) Add State\n2) Finish adding states and test word\n3) Clear all states\n0) Exit\n" << endl;
         cin >> choice;
         cout << endl;
     }
