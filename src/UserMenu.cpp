@@ -126,8 +126,8 @@ void UserMenu::cleanUp()
 {
     for (auto pair : stateSettings)
     {
-        State* temp = pair.first;
-        stateSettings.clear();
-        delete temp;
+        delete pair.first;
     }
+    
+    stateSettings.clear();
 }
