@@ -14,5 +14,5 @@ steps:
 
 - task: PublishPipelineArtifact@1
   inputs:
-    targetPath: build
+    targetPath: build/dfa-cli
     artifactName: dfa-cli
