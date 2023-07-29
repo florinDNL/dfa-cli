@@ -1,4 +1,6 @@
 # dfa-cli
+[![Build Status](https://dev.azure.com/florinDNL/dfa-cli/_apis/build/status%2FflorinDNL.dfa-cli?branchName=main)](https://dev.azure.com/florinDNL/dfa-cli/_build/latest?definitionId=3&branchName=main)
+
 Deterministic Finite Acceptor CLI Simulator
 
 ## Requires:
