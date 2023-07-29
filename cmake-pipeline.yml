@@ -10,6 +10,8 @@ steps:
     workingDirectory: build
     cmakeArgs: ..
 
+- script: cd build && make
+
 - task: PublishPipelineArtifact@1
   inputs:
     targetPath: build
